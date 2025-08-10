@@ -5,7 +5,7 @@ This project is a fullstack application built with Next.js, Vite, Bootstrap for 
 ## Project Structure
 
 ```
-my-fullstack-app
+hms-prototype
 ├── frontend
 │   ├── public                # Static assets (images, icons)
 │   ├── src
